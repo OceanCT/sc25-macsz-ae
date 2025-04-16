@@ -1,9 +1,13 @@
 # Different Approaches
 
 SZ -- original SZ compressor 
+
 ADT-FSE-SZ -- Using addition adaptation table and fse to replace SZ's huffman encoder
+
 MAC-SZ -- our approach, using tailored modeling-based arithmetic coding as the quantization factor encoder
+
 LPAQ-SZ -- using lpaq as the quantization factor encoder
+
 ZFP --  another well-known lossy compressor 
 
 see these approaches in the "/src" directory
