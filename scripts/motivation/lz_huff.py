@@ -23,7 +23,6 @@ error_bound_map = {
 }
 
 def plot_compression_ratios(csv_file):
-    # 加载CSV数据
     data = pd.read_csv(csv_file)
 
     # 遍历每个文件的记录
