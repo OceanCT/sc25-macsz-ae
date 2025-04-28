@@ -1,0 +1,15 @@
+./datasets/
+dataset*
+zi*
+scripts/pw_rel_test/log
+scripts/prefix_test/DCQ_1_26_1800_3600.f32.sz2.szdat
+scripts/motivation/qfcal/*.szdat
+*.szdat
+**/*.szdat
+**/*.szhuff
+**/*.lz4.huff
+**/*log
+**/*dat
+**/*szdat.huff
+**/*szdat1
+**/*dat.sz
