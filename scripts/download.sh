@@ -1,7 +1,7 @@
 mkdir ../datasets && cd ../datasets 
 mkdir CESM-ATM/ && cd ./CESM-ATM
-wget https://g-8d6b0.fd635.8443.data.globus.org/ds131.2/Data-Reduction-Repo/raw-data/CESM-ATM/SDRBENCH-CESM-ATM-1800x3600.tar.gz
-tar -xzf SDRBENCH-CESM-ATM-1800x3600.tar.gz
+wget https://g-8d6b0.fd635.8443.data.globus.org/ds131.2/Data-Reduction-Repo/raw-data/CESM-ATM/SDRBENCH-CESM-ATM-26x1800x3600.tar.gz
+tar -xzf SDRBENCH-CESM-ATM-26x1800x3600.tar.gz
 cd ..
 mkdir EXAALT/ && cd ./EXAALT 
 wget https://g-8d6b0.fd635.8443.data.globus.org/ds131.2/Data-Reduction-Repo/raw-data/EXAALT/SDRBENCH-exaalt-copper.tar.gz

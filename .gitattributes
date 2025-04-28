@@ -1,0 +1,1 @@
+scripts/prefix_test/DCQ_1_26_1800_3600.f32.sz2.szdat filter=lfs diff=lfs merge=lfs -text
